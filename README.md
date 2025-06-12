@@ -3,7 +3,7 @@
 A modern web app for managing personal expenses with visual data analysis.
 
 ## 🚀 Live Demo
-Try it here: 
+Try it here: https://j3rryy123.github.io/expense-tracker/
 
 ## ✨ Features
 - Categorize and manage expenses
